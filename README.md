@@ -43,12 +43,5 @@ python3 audio.py
 ```
 3️### Run Camera Surveillance:
 ```bash
-python3 camera_client.py
+python3 camera.py
 ```
-### Run Audio Surveillance:
-``` bash
-python3 audio.py
-```
-### Run Camera Surveillance:
-```bash
-python3 camera_client.py
