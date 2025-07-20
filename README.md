@@ -7,7 +7,7 @@ This Python-based surveillance toolkit is designed for **red team operations**, 
 
 ## Features
 
-- 🎙 **Audio Recording Module**
+-  **Audio Recording Module**
   - Captures real-time microphone input.
   - Streams recorded audio to the C2 server.
   - Auto-clears local traces post-transmission.
@@ -33,7 +33,7 @@ This Python-based surveillance toolkit is designed for **red team operations**, 
 
 ## Usage Instructions
 
-### 1️⃣ Start the Server:
+###  Start the Server:
 ```bash
      python3 server.py
 ```
@@ -42,5 +42,13 @@ This Python-based surveillance toolkit is designed for **red team operations**, 
 python3 audio.py
 ```
 3️### Run Camera Surveillance:
+```bash
+python3 camera_client.py
+```
+### Run Audio Surveillance:
+``` bash
+python3 audio.py
+```
+### Run Camera Surveillance:
 ```bash
 python3 camera_client.py
