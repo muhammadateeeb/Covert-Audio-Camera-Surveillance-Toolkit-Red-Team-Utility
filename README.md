@@ -35,7 +35,7 @@ This Python-based surveillance toolkit is designed for **red team operations**, 
 
 ### Start the Server:
 ```bash
-     python3 server.py
+python3 server.py
 ```
 ### Run Audio Surveillance:
 ```bash
